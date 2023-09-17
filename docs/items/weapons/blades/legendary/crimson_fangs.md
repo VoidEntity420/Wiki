@@ -3,7 +3,7 @@ sidebar_position: 1
 description: "The Crimson Fangs"
 ---
 
-# Crimson Fangs
+# ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) Crimson Fangs
 
 ![CFang](https://i.imgur.com/pcp26pb.png)
 
