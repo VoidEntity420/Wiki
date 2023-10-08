@@ -1,7 +1,12 @@
 ---
 sidebar_position: 2
 description: "Exile's Resolve"
+title: Exile's Resolve
 ---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 
 # ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) Exile's Resolve
 
