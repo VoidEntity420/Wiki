@@ -1,7 +1,12 @@
 ---
 sidebar_position: 5
 description: "The Spectral Lantern"
+title: Spectral Lantern
 ---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 
 # ![lg](https://media.discordapp.net/attachments/1118235017550778448/1152808711153262622/Legendary_Bag.png?width=67&height=67) Spectral Lantern
 
